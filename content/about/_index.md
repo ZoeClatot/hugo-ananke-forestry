@@ -1,8 +1,7 @@
 ---
 title: 'Zoé Clatot '
-description: 'A few years ago, while visiting or, rather, rummaging about Notre-Dame,
-  the author of this book found, in an obscure nook of one of the towers, the following
-  word, engraved by hand upon the wall: —ANANKE.'
+description: '"Tant que vous n''aurez pas rendu l''inconscient conscient, il dirigera
+  votre vie et vous appellerez ça le destin" -Carl Jung'
 featured_image: "/images/img_e2451-2.JPG"
 
 ---
