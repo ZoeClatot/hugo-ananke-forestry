@@ -1,6 +1,6 @@
 baseURL: "https://zoe-clatot.netlify.app/"
 languageCode: "en-us"
-title: "Hugo Ananke Forestry Starter"
+title: "Blog : Zoé Clatot"
 
 module:
   imports:
