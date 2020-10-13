@@ -1,6 +1,6 @@
 baseURL: "https://zoe-clatot.netlify.app/"
 languageCode: "en-us"
-title: "Blog : Zoé Clatot"
+title: "Porte folio - Zoé Clatot"
 
 module:
   imports:
